@@ -20,3 +20,7 @@
 #         return n * factorial(n - 1)
 
 # print(factorial(5))  # Output: 120
+
+# nested functions
+
+# you can define functions inside other functions
